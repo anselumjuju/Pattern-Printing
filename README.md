@@ -51,6 +51,6 @@ This repository contains a diverse collection of Java implementations for variou
    *  
    ```  
 
-...and so on for all 35 patterns.  
+...and so on for all 15 patterns.  
 
 Each pattern's Java implementation can be found in this repository. Browse the files to explore the logic behind each program! 
